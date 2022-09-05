@@ -1,0 +1,23 @@
+body{
+    font-family: Roboto !important;
+}
+header{
+    height: 50px !important;
+}
+.bg-default{
+    background-color: #007cfe !important;
+}
+.text-default{
+    color: #007cfe !important;
+}
+.btn-default{
+    background-color: #007cfe !important;
+    color: aliceblue !important;
+}
+.btn-default:hover{
+    background-color: #61aeff !important;
+    color: #fff !important;
+}
+#image img{
+    width: 100%;
+}
